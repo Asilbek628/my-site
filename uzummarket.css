@@ -119,18 +119,18 @@ body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .home .strategiya .img1 p{
-    font-weight: 300;
+    font-weight: 400;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 16px;
 }
 .home .strategiya .img2 p{
-    font-weight: 300;
+    font-weight: 400;
     font-size: 15px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
 .home .strategiya .img3 p{
-    font-weight: 300;
+    font-weight: 400;
     font-size: 16px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
@@ -181,4 +181,70 @@ body{
     background-color: #fff;
     width: 90%;
     height: 50%;
+}
+.hh{
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 10px;
+    color: #222;
+    margin-top: 150px;
+    
+}
+.muhbor{
+    margin-top: 130px;
+    padding: 40px;
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: 120px;
+    padding: 50px;
+    border-radius: 40px;
+}
+.muhimh1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.muhim{
+    border-radius: 40px 40px 40px 40px;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5%;
+    width: 94%;
+    height: 90%;
+    padding: 30px;
+    background-color: #cbe9ff;
+    line-height: 23px;
+}
+.border3{
+    width: 1020px;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #fff;
+}
+.tugma{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.tugm{
+    width: 200px;
+    height: 45px;
+    border-radius: 7px;
+    border: none;
+    background-color: #7000ff;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 16px;
+}
+.tug{
+    width: 200px;
+    height: 45px;
+    border-radius: 7px;
+    border: none;
+    background-color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 16px;
 }
